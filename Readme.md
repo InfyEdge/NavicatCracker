@@ -1,9 +1,7 @@
 
 【Navicat 官方下载地址】
-v16
-https://dn.navicat.com.cn/download/navicat16_premium_cs_x64.exe
-v17
-https://dn.navicat.com.cn/download/navicat17_premium_cs_x64.exe
+
+17. https://dn.navicat.com.cn/download/navicat17_premium_cs_x64.exe
 
 ## 激活教程
 
