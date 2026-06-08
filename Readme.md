@@ -1,3 +1,7 @@
+
+【Navicat 16 官方下载地址】
+https://dn.navicat.com.cn/download/navicat16_premium_cs_x64.exe
+
 ## 激活教程
 
 1. 将破解补丁复制到 Navicat 软件安装目录
